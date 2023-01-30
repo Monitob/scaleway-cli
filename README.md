@@ -140,7 +140,7 @@ To enable beta features, you can set `SCW_ENABLE_BETA=1` in your environment.
 | `registry`     | Container registry API                  | [CLI](./docs/commands/registry.md) / [API](https://developers.scaleway.com/en/products/registry/api/)           |
 | `shell`        | Start Shell mode                        | [CLI](./docs/commands/shell.md)                                                                                 |
 | `vpc-gw`       | VPC Gateway API                         | [CLI](./docs/commands/vpc.md) / [API](https://developers.scaleway.com/en/products/vpc-gw/api/v1/)               |
-| `vpc`          | VPC API                                 | [CLI](./docs/commands/vpc.md) / [API](https://developers.scaleway.com/en/products/vpc/api/)                     |
+| `vpc`          | VPC API                                 | [CLI](./docs/commands/vpc-gw.md) / [API](https://developers.scaleway.com/en/products/vpc/api/)                  |
 
 ## Build it yourself
 
